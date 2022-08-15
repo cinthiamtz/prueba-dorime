@@ -1,11 +1,11 @@
-INSERT INTO customer_db.customer_order_products (order_order_id, products_product_id) VALUES (1,1);
+/*INSERT INTO customer_db.customer_order_products (order_order_id, products_product_id) VALUES (1,1);
 INSERT INTO customer_db.customer_order_products (order_order_id, products_product_id) VALUES (1,2);
 INSERT INTO customer_db.customer_order_products (order_order_id, products_product_id) VALUES (1,3);
 INSERT INTO customer_db.customer_order_products (order_order_id, products_product_id) VALUES (2,1);
 INSERT INTO customer_db.customer_order_products (order_order_id, products_product_id) VALUES (3,2);
 INSERT INTO customer_db.customer_order_products (order_order_id, products_product_id) VALUES (4,3);
 INSERT INTO customer_db.customer_order_products (order_order_id, products_product_id) VALUES (5,2);
-INSERT INTO customer_db.customer_order_products (order_order_id, products_product_id) VALUES (5,3);
+INSERT INTO customer_db.customer_order_products (order_order_id, products_product_id) VALUES (5,3);*/
 
 /* Se insertan los siguientes registros en la tabla */
 
