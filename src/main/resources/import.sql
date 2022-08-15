@@ -33,4 +33,3 @@ INSERT INTO customer_db.customer_data (first_name, last_name) VALUES('Federico',
 INSERT INTO customer_db.customer_data (first_name, last_name) VALUES('Walter', 'White');
 INSERT INTO customer_db.customer_data (first_name, last_name) VALUES('Emmett', 'Brown');
 
-
